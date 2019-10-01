@@ -3,7 +3,7 @@ name: Ishan Jain
 email: ishjain at ucdavis dot edu
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Pyhton, Java, C/C++ developer"
-skills: "Masters in CS at UC Davis"
+skills: "Masters in CS at UC Davis <br> Actively looking for full time positions in Software Engineering starting Summer 2020"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -13,6 +13,8 @@ social:
     url: https://www.linkedin.com/in/ishanjain22/
   - title: github
     url: https://github.com/ishanjain22
+  - title: facebook
+    url: https://www.facebook.com/ishanjain22
     
 # Google webmaster tools
 google_verify:
